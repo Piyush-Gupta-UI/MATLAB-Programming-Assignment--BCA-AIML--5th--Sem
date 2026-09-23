@@ -1,0 +1,3 @@
+Positive count: 4
+Positive sum: 25
+Positive average: 6.25

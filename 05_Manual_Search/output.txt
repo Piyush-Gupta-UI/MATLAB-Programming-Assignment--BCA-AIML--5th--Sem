@@ -1,0 +1,4 @@
+Array: 5 8 3 8 2 8 9 1 
+Target: 8
+First position: 2
+Occurrences: 3

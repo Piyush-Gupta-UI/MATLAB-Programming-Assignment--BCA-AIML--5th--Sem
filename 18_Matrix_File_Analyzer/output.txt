@@ -1,0 +1,6 @@
+Maximum: 9 at (2,1)
+Minimum: 1 at (2,2)
+Row 1 sum: 13
+Row 2 sum: 15
+Row 3 sum: 17
+Highest row sum: Row 3

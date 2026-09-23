@@ -1,0 +1,4 @@
+Row 1: Sum=13 Average=4.33 Maximum=7
+Row 2: Sum=15 Average=5.00 Maximum=9
+Row 3: Sum=17 Average=5.67 Maximum=8
+Row with highest sum: 3

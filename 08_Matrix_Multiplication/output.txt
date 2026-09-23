@@ -1,0 +1,4 @@
+Manual product:
+58 64 
+139 154 
+Manual result matches MATLAB/Octave A*B: Yes

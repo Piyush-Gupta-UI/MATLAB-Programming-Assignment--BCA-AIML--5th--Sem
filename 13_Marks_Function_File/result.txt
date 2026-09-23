@@ -1,0 +1,6 @@
+Marks Analysis
+Valid marks: 78 65 35 88 42 
+Average: 61.60
+Highest: 88
+Pass count: 4
+Fail count: 1

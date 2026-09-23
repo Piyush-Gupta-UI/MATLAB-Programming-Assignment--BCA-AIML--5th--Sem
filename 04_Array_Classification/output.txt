@@ -1,0 +1,8 @@
+Positive: 5
+Negative: 3
+Zero: 2
+Even integers: 6
+Odd integers: 4
+Sum positive: 42
+Sum negative: -16
+Highest category count: Positive

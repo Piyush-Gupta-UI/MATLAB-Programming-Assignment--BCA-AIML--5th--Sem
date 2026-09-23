@@ -1,0 +1,3 @@
+Target: 7
+First index: 2
+Occurrence count: 3

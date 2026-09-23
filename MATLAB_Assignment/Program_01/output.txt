@@ -1,0 +1,8 @@
+Student Result Analyzer
+Valid marks: 78 65 92 45 88 39 72 
+Total: 479
+Average: 68.43
+Highest: 92
+Lowest: 39
+Pass: 6
+Fail: 1

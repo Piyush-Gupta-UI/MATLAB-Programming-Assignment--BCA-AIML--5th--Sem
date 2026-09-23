@@ -1,0 +1,2 @@
+Input array: 12 45 7 45 30 12 50 50 18 
+Second largest distinct value: 45

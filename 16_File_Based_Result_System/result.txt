@@ -1,0 +1,5 @@
+Student Result Report
+Aman Total=229 Average=76.33 Status=Pass
+Riya Total=274 Average=91.33 Status=Pass
+Karan Total=115 Average=38.33 Status=Fail
+Neha Total=225 Average=75.00 Status=Pass

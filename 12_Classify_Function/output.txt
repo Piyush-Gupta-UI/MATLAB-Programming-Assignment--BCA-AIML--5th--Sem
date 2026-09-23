@@ -1,0 +1,2 @@
+Array 1 -> Positive=3 Negative=1 Zero=1 Even=3 Odd=2
+Array 2 -> Positive=3 Negative=2 Zero=1 Even=4 Odd=2

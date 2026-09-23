@@ -1,0 +1,8 @@
+Count: 12
+Sum: 35
+Average: 2.92
+Minimum: -10
+Maximum: 15
+Positive: 12 8 15 7 4 9 
+Negative: -5 -3 -10 -2 
+Zero count: 2

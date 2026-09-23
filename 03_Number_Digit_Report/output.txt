@@ -1,0 +1,7 @@
+Number: 12321
+Digits: 5
+Sum of digits: 9
+Even digits: 2
+Odd digits: 3
+Reversed: 12321
+Palindrome: Yes
