@@ -1,7 +1,8 @@
-Number: 12321
-Digits: 5
-Sum of digits: 9
-Even digits: 2
-Odd digits: 3
-Reversed: 12321
-Palindrome: Yes
+===== Number Digit Report =====
+Number          : 48284
+Number of digits: 5
+Sum of digits   : 26
+Even digits     : 5
+Odd digits      : 0
+Reversed number : 48284
+Palindrome      : Yes
